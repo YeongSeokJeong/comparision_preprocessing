@@ -66,3 +66,8 @@
 ### 결론
 
 모델이나 불용어 처리의 방법보다 토큰의 단위가 모델의 성능에 큰 영향을 끼침
+
+### 논문 자료
+
+- [KSC 2019](https:/https://www.cseric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=&more=Y&research=Y&re_q1=&gu=INME000F9&cmd=qryview&SnxIndxNum=214252&rownum=1&totalCnt=49&q1_t=WWVvbmctU2VvayBTZW8=&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOTUUmbW9kZT10b3RhbCZzZWFyY2hDYXRlPSZxMT1ZZW9uZy1TZW9rJTIwU2VvJm1vcmU9WSZmMT0mcmVzZWFyY2g9WSZyZV9xMT0=&q1=Yeong-Seok+Seo)
+
